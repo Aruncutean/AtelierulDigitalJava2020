@@ -20,19 +20,41 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f920f842-5de6-4be0-a759-fcc1645ef1a0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/L2/Challenge1/BoxingMatch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/L2/Challenge1/Fighter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/L2/Challenge1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/L2/Challenge2/Actor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/L2/Challenge2/Film.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/L2/Challenge2/Studio.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/L2/Challenge3/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/L2/Challenge3/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/L2/Challenge3/Fish.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/L2/Challenge3/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/L2/Challenge3/Pet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/L2/Challenge3/Spider.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/L3/Challenge1/ArrayCustomIterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/L3/Challenge1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/L3/Challenge2/BubbleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/L3/Challenge2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/L3/Challenge2/MergeSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/L3/Challenge2/SortingStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/L3/Challenge3/Apartment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/L3/Challenge3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/L3/Challenge3/RealEstateAgentProxy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/L3/Challenge3/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/L3/Challenge4/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/L3/Challenge4/ObservedSubject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/L3/Challenge4/Observer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/L3/Challenge4/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/L3/Challenge4/Teacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/L3/decorator/Beverage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/L3/decorator/Caffe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/L3/decorator/Chocolate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/L3/decorator/DarkRoast.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/L3/decorator/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/L3/decorator/Milk.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/L3/decorator/Topping.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/L3/decorator/Whip.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/L3/delegation/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/L3/delegation/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/L3/delegation/PayCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/L3/factory/CHMargherita.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/L3/factory/CHQuatro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/L3/factory/ChicagoPizzaStore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/L3/factory/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/L3/factory/NYMargherita.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/L3/factory/NYPizzaStore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/L3/factory/NYQuatro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/L3/factory/Pizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/L3/factory/PizzaSore.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -68,39 +90,18 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
   </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="L3.decorator" />
+    </key>
+  </component>
   <component name="RunManager" selected="Application.Main (1)">
-    <configuration name="Challenge3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="L1.Challenge3" />
-      <module name="AtelierulDigitalJava2020" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="L1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Challenge4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="L1.Challenge4" />
-      <module name="AtelierulDigitalJava2020" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="L1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="L2.Challenge3.Main" />
+      <option name="MAIN_CLASS_NAME" value="L3.Challenge3.Main" />
       <module name="AtelierulDigitalJava2020" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="L2.Challenge3.*" />
+          <option name="PATTERN" value="L3.Challenge3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,11 +110,37 @@
       </method>
     </configuration>
     <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="L2.Challenge2.Main" />
+      <option name="MAIN_CLASS_NAME" value="L3.Challenge2.Main" />
       <module name="AtelierulDigitalJava2020" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="L2.Challenge2.*" />
+          <option name="PATTERN" value="L3.Challenge2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="L3.factory.Main" />
+      <module name="AtelierulDigitalJava2020" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="L3.factory.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="L3.decorator.Main" />
+      <module name="AtelierulDigitalJava2020" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="L3.decorator.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,11 +149,11 @@
       </method>
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="L2.Challenge1.Main" />
+      <option name="MAIN_CLASS_NAME" value="L3.Challenge1.Main" />
       <module name="AtelierulDigitalJava2020" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="L2.Challenge1.*" />
+          <option name="PATTERN" value="L3.Challenge1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -139,8 +166,8 @@
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Challenge4" />
-        <item itemvalue="Application.Challenge3" />
+        <item itemvalue="Application.Main (5)" />
+        <item itemvalue="Application.Main (4)" />
       </list>
     </recent_temporary>
   </component>
@@ -168,33 +195,37 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="2398" y="231" key="#com.intellij.ide.util.MemberChooser" timestamp="1606159161316">
+    <state x="2398" y="231" key="#com.intellij.ide.util.MemberChooser" timestamp="1607088953711">
       <screen x="1366" y="0" width="1920" height="1040" />
     </state>
-    <state x="2398" y="231" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1606159161316" />
-    <state width="1877" height="203" key="GridCell.Tab.0.bottom" timestamp="1606500483037">
+    <state x="2398" y="231" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1607088953711" />
+    <state x="1756" y="137" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog" timestamp="1606762700451">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1756" y="137" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1606762700451" />
+    <state width="1877" height="296" key="GridCell.Tab.0.bottom" timestamp="1607088131278">
       <screen x="1366" y="0" width="1920" height="1040" />
     </state>
     <state width="1323" height="207" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1605707845144" />
-    <state width="1877" height="203" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1606500483037" />
+    <state width="1877" height="296" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1607088131278" />
     <state width="1323" height="207" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1605646432830" />
-    <state width="1877" height="203" key="GridCell.Tab.0.center" timestamp="1606500483037">
+    <state width="1877" height="296" key="GridCell.Tab.0.center" timestamp="1607088131277">
       <screen x="1366" y="0" width="1920" height="1040" />
     </state>
     <state width="1323" height="207" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1605707845144" />
-    <state width="1877" height="203" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1606500483037" />
+    <state width="1877" height="296" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1607088131277" />
     <state width="1323" height="207" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1605646432830" />
-    <state width="1877" height="203" key="GridCell.Tab.0.left" timestamp="1606500483037">
+    <state width="1877" height="296" key="GridCell.Tab.0.left" timestamp="1607088131277">
       <screen x="1366" y="0" width="1920" height="1040" />
     </state>
     <state width="1323" height="207" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1605707845144" />
-    <state width="1877" height="203" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1606500483037" />
+    <state width="1877" height="296" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1607088131277" />
     <state width="1323" height="207" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1605646432830" />
-    <state width="1877" height="203" key="GridCell.Tab.0.right" timestamp="1606500483037">
+    <state width="1877" height="296" key="GridCell.Tab.0.right" timestamp="1607088131278">
       <screen x="1366" y="0" width="1920" height="1040" />
     </state>
     <state width="1323" height="207" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1605707845144" />
-    <state width="1877" height="203" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1606500483037" />
+    <state width="1877" height="296" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1607088131278" />
     <state width="1323" height="207" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1605646432830" />
     <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1605641133062">
       <screen x="1366" y="0" width="1920" height="1040" />
@@ -216,5 +247,14 @@
       <screen x="1366" y="0" width="1920" height="1040" />
     </state>
     <state x="1982" y="240" key="run.anything.popup/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1605639542350" />
+    <state x="1600" y="202" width="672" height="678" key="search.everywhere.popup" timestamp="1606762942288">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1600" y="202" width="672" height="678" key="search.everywhere.popup/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1606762942288" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/AtelierulDigitalJava2020$Main__3_.ic" NAME="Main (3) Coverage Results" MODIFIED="1606760131094" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>L3.delegation.*</FILTER>
+    </SUITE>
   </component>
 </project>
