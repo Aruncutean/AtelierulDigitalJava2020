@@ -1,31 +1,30 @@
 package L3.Challenge4;
 
-public class Student implements  ObservedSubject{
+import java.util.ArrayList;
+import java.util.List;
+
+public class Student implements Observer {
 
     private String name;
 
-    public Student(String name)
-    {
-        this.name=name;
+
+    public Student(String name) {
+        this.name = name;
     }
+
 
     public String getName() {
         return name;
     }
 
 
-    @Override
-    public void register(Observer obj) {
-
+    public void listenTo(Teacher teacher) {
+        teacher.register(this);
     }
 
     @Override
-    public void unregister(Observer obj) {
-
+    public void update(String message) {
+        System.out.println("Student " + this.name + " learned about " + message);
     }
 
-    @Override
-    public void notifyObserver(String message) {
-
-    }
 }
