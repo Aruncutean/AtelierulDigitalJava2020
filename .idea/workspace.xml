@@ -20,21 +20,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f920f842-5de6-4be0-a759-fcc1645ef1a0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/L3/visitor/Audio.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/L3/visitor/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/L3/visitor/DurationVisitor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/L3/visitor/Element.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/L3/visitor/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/L3/visitor/NameVisitor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/L3/visitor/Video.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/L3/visitor/Visitor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/L4/Challenge1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/L4/Challenge1/PhoneBook.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/L4/Challenge1/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/L4/exception/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/L4/exception/CheckedException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/L4/exception/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/L4/exception/UncheckedException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/L4/Challenge2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/L4/Challenge2/MessageSecret.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/L4/Challenge2/message.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/L4/Challenge3/Bkt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/L4/Challenge3/FileEnd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/L4/Challenge3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/L4/Challenge3/ReadWord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/L4/Challenge3/WriteFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/L4/Challenge3/wordlist.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/L4/Challenge3/words_alpha.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/L4/Challenge4/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/L4/Challenge4/Stage2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/L4/Challenge4/input.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -78,7 +76,7 @@
       <recent name="L3.visitor" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main (1)">
+  <component name="RunManager" selected="Application.Main (5)">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="L4.Challenge1.Main" />
       <module name="AtelierulDigitalJava2020" />
@@ -105,12 +103,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="L3.Challenge5.Main" />
+    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="L4.Challenge2.Main" />
       <module name="AtelierulDigitalJava2020" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="L3.Challenge5.*" />
+          <option name="PATTERN" value="L4.Challenge2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="L4.Challenge3.Main" />
+      <module name="AtelierulDigitalJava2020" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="L4.Challenge3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,24 +130,11 @@
       </method>
     </configuration>
     <configuration name="Main (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="L3.Challenge6.Main" />
+      <option name="MAIN_CLASS_NAME" value="L4.Challenge4.Main" />
       <module name="AtelierulDigitalJava2020" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="L3.Challenge6.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="L3.visitor.Main" />
-      <module name="AtelierulDigitalJava2020" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="L3.visitor.*" />
+          <option name="PATTERN" value="L4.Challenge4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -146,11 +144,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.Main (2)" />
-        <item itemvalue="Application.Main" />
         <item itemvalue="Application.Main (5)" />
         <item itemvalue="Application.Main (4)" />
+        <item itemvalue="Application.Main (3)" />
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Main (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -178,54 +176,54 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="2398" y="231" key="#com.intellij.ide.util.MemberChooser" timestamp="1607362062557">
+    <state x="2398" y="231" key="#com.intellij.ide.util.MemberChooser" timestamp="1607862207977">
       <screen x="1366" y="0" width="1920" height="1040" />
     </state>
-    <state x="2398" y="231" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1607362062557" />
+    <state x="2398" y="231" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1607862207977" />
     <state x="1756" y="137" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog" timestamp="1606762700451">
       <screen x="1366" y="0" width="1920" height="1040" />
     </state>
     <state x="1756" y="137" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1606762700451" />
-    <state width="914" height="295" key="GridCell.Tab.0.bottom" timestamp="1607368477939">
+    <state width="1877" height="394" key="GridCell.Tab.0.bottom" timestamp="1607870605901">
       <screen x="1366" y="0" width="1920" height="1040" />
     </state>
     <state width="1323" height="207" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1605707845144" />
-    <state width="914" height="295" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1607368477939" />
+    <state width="1877" height="394" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1607870605901" />
     <state width="1323" height="207" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1605646432830" />
-    <state width="914" height="295" key="GridCell.Tab.0.center" timestamp="1607368477939">
+    <state width="1877" height="394" key="GridCell.Tab.0.center" timestamp="1607870605901">
       <screen x="1366" y="0" width="1920" height="1040" />
     </state>
     <state width="1323" height="207" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1605707845144" />
-    <state width="914" height="295" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1607368477939" />
+    <state width="1877" height="394" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1607870605901" />
     <state width="1323" height="207" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1605646432830" />
-    <state width="914" height="295" key="GridCell.Tab.0.left" timestamp="1607368477938">
+    <state width="1877" height="394" key="GridCell.Tab.0.left" timestamp="1607870605901">
       <screen x="1366" y="0" width="1920" height="1040" />
     </state>
     <state width="1323" height="207" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1605707845144" />
-    <state width="914" height="295" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1607368477938" />
+    <state width="1877" height="394" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1607870605901" />
     <state width="1323" height="207" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1605646432830" />
-    <state width="914" height="295" key="GridCell.Tab.0.right" timestamp="1607368477939">
+    <state width="1877" height="394" key="GridCell.Tab.0.right" timestamp="1607870605901">
       <screen x="1366" y="0" width="1920" height="1040" />
     </state>
     <state width="1323" height="207" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1605707845144" />
-    <state width="914" height="295" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1607368477939" />
+    <state width="1877" height="394" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1607870605901" />
     <state width="1323" height="207" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1605646432830" />
-    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1605641133062">
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1607869140627">
       <screen x="1366" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1605641133062" />
-    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1605641133062">
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1607869140627" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1607869140627">
       <screen x="1366" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1605641133062" />
-    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1605641133062">
+    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1607869140627" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1607869140627">
       <screen x="1366" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1605641133062" />
-    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1605641133062">
+    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1607869140627" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1607869140627">
       <screen x="1366" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1605641133062" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1607869140627" />
     <state x="1982" y="240" key="run.anything.popup" timestamp="1605639542350">
       <screen x="1366" y="0" width="1920" height="1040" />
     </state>
