@@ -20,33 +20,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f920f842-5de6-4be0-a759-fcc1645ef1a0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/L5/Challenge1/Currency.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/L5/Challenge1/EUR.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/L5/Challenge1/ExchangeDesk.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/L5/Challenge1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/L5/Challenge1/Ron.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/L5/Challenge1/USD.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/L5/Challenge2/Boot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/L5/Challenge2/Heels.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/L5/Challenge2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/L5/Challenge2/Pair.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/L5/Challenge2/Running.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/L5/Challenge2/Shoe.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/L5/Challenge3/GenericList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/L5/Challenge3/IGenericList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/L5/Challenge3/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/L5/Challenge4/ArrayIterator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/L5/Challenge4/IArrayIterator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/L5/Challenge4/IGenericList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/L5/Challenge4/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/L5/Challenge5/ArrayNotSortedException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/L5/Challenge5/BinarySearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/L5/Challenge5/IsSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/L5/Challenge5/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/L6/Challlenge2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/L6/leader/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/L6/marge/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AtelierulDigitalJava2020/L4/Challenge1/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AtelierulDigitalJava2020/L4/Challenge1/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AtelierulDigitalJava2020/L4/Challenge4/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AtelierulDigitalJava2020/L4/Challenge4/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/L4/Challenge1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/L4/Challenge1/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,7 +67,7 @@
       <recent name="L3.visitor" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main (3)">
+  <component name="RunManager" selected="Application.Main (4)">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="L5.Challenge3.Main" />
       <module name="AtelierulDigitalJava2020" />
@@ -130,12 +107,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="L4.Challenge4.Main" />
+    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="L6.marge.Main" />
       <module name="AtelierulDigitalJava2020" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="L4.Challenge4.*" />
+          <option name="PATTERN" value="L6.marge.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -158,11 +135,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (4)" />
         <item itemvalue="Application.Main (3)" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Main (5)" />
       </list>
     </recent_temporary>
   </component>
@@ -199,30 +176,30 @@
       <screen x="1366" y="0" width="1920" height="1040" />
     </state>
     <state x="1756" y="137" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1606762700451" />
-    <state width="1877" height="392" key="GridCell.Tab.0.bottom" timestamp="1608461912084">
-      <screen x="1366" y="0" width="1920" height="1040" />
+    <state width="1323" height="260" key="GridCell.Tab.0.bottom" timestamp="1608583474201">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1323" height="253" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1607974092930" />
-    <state width="1877" height="392" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1608461912084" />
-    <state width="1323" height="207" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1605646432830" />
-    <state width="1877" height="392" key="GridCell.Tab.0.center" timestamp="1608461912084">
-      <screen x="1366" y="0" width="1920" height="1040" />
+    <state width="1877" height="260" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1608574688610" />
+    <state width="1323" height="260" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1608583474201" />
+    <state width="1323" height="260" key="GridCell.Tab.0.center" timestamp="1608583474201">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1323" height="253" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1607974092930" />
-    <state width="1877" height="392" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1608461912084" />
-    <state width="1323" height="207" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1605646432830" />
-    <state width="1877" height="392" key="GridCell.Tab.0.left" timestamp="1608461912084">
-      <screen x="1366" y="0" width="1920" height="1040" />
+    <state width="1877" height="260" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1608574688610" />
+    <state width="1323" height="260" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1608583474201" />
+    <state width="1323" height="260" key="GridCell.Tab.0.left" timestamp="1608583474201">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1323" height="253" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1607974092930" />
-    <state width="1877" height="392" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1608461912084" />
-    <state width="1323" height="207" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1605646432830" />
-    <state width="1877" height="392" key="GridCell.Tab.0.right" timestamp="1608461912084">
-      <screen x="1366" y="0" width="1920" height="1040" />
+    <state width="1877" height="260" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1608574688609" />
+    <state width="1323" height="260" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1608583474201" />
+    <state width="1323" height="260" key="GridCell.Tab.0.right" timestamp="1608583474201">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1323" height="253" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1607974092930" />
-    <state width="1877" height="392" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1608461912084" />
-    <state width="1323" height="207" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1605646432830" />
+    <state width="1877" height="260" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1608574688610" />
+    <state width="1323" height="260" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1608583474201" />
     <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1607871707161">
       <screen x="1366" y="0" width="1920" height="1040" />
     </state>
@@ -239,6 +216,10 @@
       <screen x="1366" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1607871707161" />
+    <state x="2026" y="277" key="refactoring.ChangeSignatureDialog" timestamp="1608466443169">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2026" y="277" key="refactoring.ChangeSignatureDialog/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1608466443169" />
     <state x="1982" y="240" key="run.anything.popup" timestamp="1605639542350">
       <screen x="1366" y="0" width="1920" height="1040" />
     </state>
